@@ -6,16 +6,10 @@ labels: ''
 assignees: ''
 ---
 
-### Technical Details
+**Technical Details**: TODO
 
-TODO
+**Impact**: TODO
 
-### Impact
+**Recommendation**: TODO
 
-TODO
-
-### Recommendation
-
-TODO
-
-### Developer Response
+**Developer Response**: TODO
